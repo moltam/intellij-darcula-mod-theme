@@ -1,9 +1,9 @@
 <scheme name="Darcula mod" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-02-12T13:33:48</property>
+    <property name="created">2019-02-12T13:43:01</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-02-12T13:33:54</property>
+    <property name="modified">2019-02-12T13:43:10</property>
     <property name="originalScheme">Darcula mod</property>
   </metaInfo>
   <attributes>
@@ -70,6 +70,12 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="62b1fe" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
