@@ -1,9 +1,9 @@
 <scheme name="Darcula mod" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-02-12T13:43:01</property>
+    <property name="created">2019-02-12T14:13:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-02-12T13:43:10</property>
+    <property name="modified">2019-02-12T14:13:46</property>
     <property name="originalScheme">Darcula mod</property>
   </metaInfo>
   <attributes>
@@ -33,7 +33,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="dbe9ff" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -98,5 +98,12 @@
       </value>
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="dbe9ff" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
   </attributes>
 </scheme>
