@@ -1,9 +1,9 @@
 <scheme name="Darcula mod" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-02-12T14:13:42</property>
+    <property name="created">2019-02-20T11:13:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-02-12T14:13:46</property>
+    <property name="modified">2019-02-20T11:14:04</property>
     <property name="originalScheme">Darcula mod</property>
   </metaInfo>
   <attributes>
@@ -86,14 +86,11 @@
       </value>
     </option>
     <option name="PHP_INSTANCE_METHOD">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
-      </value>
+      <value />
     </option>
     <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
