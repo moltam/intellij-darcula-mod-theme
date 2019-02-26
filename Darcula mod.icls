@@ -1,11 +1,16 @@
 <scheme name="Darcula mod" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-02-20T11:43:09</property>
+    <property name="created">2019-02-26T09:26:47</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-02-20T11:43:14</property>
+    <property name="modified">2019-02-26T09:26:52</property>
     <property name="originalScheme">Darcula mod</property>
   </metaInfo>
+  <colors>
+    <option name="ADDED_LINES_COLOR" value="96ff96" />
+    <option name="DELETED_LINES_COLOR" value="ffa0b4" />
+    <option name="MODIFIED_LINES_COLOR" value="a0c8ff" />
+  </colors>
   <attributes>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
